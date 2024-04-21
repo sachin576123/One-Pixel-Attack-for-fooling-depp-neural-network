@@ -1,6 +1,5 @@
 """One Pixel Attack
 
-    Paper: https://arxiv.org/abs/1710.08864
 
     d - number of pixels to change (L0 norm)
     iters - number of iterations
